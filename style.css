@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+
+    font-size: 100%; 
+    background: linear-gradient(135deg, #d8c4f4, #b386d3);
+}
+ 
+.cabeçalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+
+}
+
+.cabeçalho-imagem {
+   height: 72px;
+
+}
+
+.cabeçalho-menu-item {
+display: flex;
+gap: 32px;
+font-family: 'Sarala', sans-serif;
+color: rgb(168, 88, 233);
+
+
+}
+
+.conteudo {
+    margin-bottom: 40px;
+    border-top: 0.8px solid #a252da;
+
+}
+ .conteudo-principal-escrito {
+display: flex;
+flex-direction:column ;
+align-items: center;
+justify-content: center;
+font-family: 'Sarala', sans-serif;
+color: #a252da;
+
+
+
+ }
+ .conteudo-principal-escrito1{
+    margin: 0.4px;
+    display: flex;
+flex-direction:column ;
+align-items: center;
+justify-content: space-around;
+font-family: 'Sarala', sans-serif;
+color: #a252da;
+
+ }
+ .conteudo-principal2{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Sarala', sans-serif;
+    color: #a252da;
+
+ }
+ .conteudo-principal-escrito2{
+    margin: 0.4px;
+    display: flex;
+flex-direction:column ;
+align-items: center;
+justify-content: space-around;
+font-family: 'Sarala', sans-serif;
+color: #a252da;
+ }
+
+ .conteudo-final{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Sarala', sans-serif;
+    color: #a252da;
+
+ }
+ .conteudo-final1{
+    margin: 0.4px;
+    display: flex;
+flex-direction:column ;
+align-items: center;
+justify-content: space-around;
+font-family: 'Sarala', sans-serif;
+color: #a252da;
+ }
+ 
+ .rodape{
+    padding: 32px;
+    border-top: 0.4px solid #a252da
+ }
+
+ .rodape-observação{
+    font-family: 'Sarala', sans-serif;
+color: #a252da;
+ }
