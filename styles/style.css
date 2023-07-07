@@ -1,3 +1,4 @@
+ /* importando a fonte do google */
 @import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
 
 * {
@@ -67,6 +68,8 @@ body {
 
 }
 
+/* aprendi sobre operadores de css 
+https://www.w3schools.com/cssref/css_selectors.php */
 
 .conteudo-hobbies,
 .conteudo-curiosidades {
